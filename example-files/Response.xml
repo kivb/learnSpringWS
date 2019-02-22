@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<co:GetCourseDetailsResponse
+	xmlns:co="http://saras.lbl.gov/courses"
+	xsi:schemaLocation="http://saras.lbl.gov/courses course-details.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<co:CourseDetails>
+		<co:id>123</co:id>
+		<co:name>"SpringBoot Web services"</co:name>
+		<co:description>"Contract first Web services using SpringBoot"</co:description>
+	</co:CourseDetails>
+
+</co:GetCourseDetailsResponse>

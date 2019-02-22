@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<co:GetCourseDetailsRequest
+	xmlns:co="http://saras.lbl.gov/courses"
+	xsi:schemaLocation="http://saras.lbl.gov/courses course-details.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<co:id>123</co:id>
+</co:GetCourseDetailsRequest>
